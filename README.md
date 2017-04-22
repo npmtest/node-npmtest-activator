@@ -1,4 +1,7 @@
-# test coverage for  [activator (v3.0.1)](https://github.com/deitch/activator#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-activator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-activator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-activator.svg)](https://travis-ci.org/npmtest/node-npmtest-activator)
+# npmtest-activator
+
+#### basic test-coverage for  [activator (v3.0.1)](https://github.com/deitch/activator#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-activator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-activator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-activator.svg)](https://travis-ci.org/npmtest/node-npmtest-activator)
+
 #### simple user activation and password reset for nodejs
 
 [![NPM](https://nodei.co/npm/activator.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/activator)
@@ -117,7 +120,8 @@
         "test": "mocha"
     },
     "url": "http://github.com/deitch/activator",
-    "version": "3.0.1"
+    "version": "3.0.1",
+    "bin": {}
 }
 ```
 
